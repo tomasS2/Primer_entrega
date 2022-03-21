@@ -13,4 +13,3 @@ while intento < 6 and not gane:
         intento += 1
 if not gane:
     print('\n Perdiste :(\n El número era: {}'.format(numero_aleatorio))
-    
